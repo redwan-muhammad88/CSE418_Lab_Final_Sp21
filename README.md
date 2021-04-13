@@ -10,10 +10,10 @@
 ### Question -> 9
 - Create a script to construct the following pattern,using nested for loop.
 
-*
-* *
-* * *
-* * * *
-* * * * *
 
+
+<img src="all_user.PNG">
+
+<img src="useredit.PNG">
+   
    
